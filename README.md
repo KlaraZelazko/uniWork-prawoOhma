@@ -1,4 +1,4 @@
-# Ohm’s Law Calculator
+# Ohm’s Law Calculator Uni Work
 Simple C# console application created as a small educational project.
 
 The program demonstrates basic programming and calculation concepts by applying Ohm’s Law to calculate voltage, current, or resistance.
